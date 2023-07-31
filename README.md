@@ -2,7 +2,7 @@
 Kannan's Personal Page
 
 
-<img src="![image](https://github.com/KannanS397/Webpage/assets/140952087/6ae183c6-dad3-4871-a7a7-dbc431d352c2)" alt="image" width="250" height="250">
+![Kannan](https://github.com/KannanS397/Webpage/assets/140952087/5b636565-2321-4c05-843d-2766627c6096)" alt="image" width="250" height="250">
 
 ## Kannan Sekar | M.S. Scholar 
 
