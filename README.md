@@ -2,7 +2,7 @@
 Kannan's Personal Page
 
 
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/9c2cae63-6e60-4289-a945-d7b8a909e400" alt="image" width="250" height="250">
+<img src="![image](https://github.com/KannanS397/Webpage/assets/140952087/6ae183c6-dad3-4871-a7a7-dbc431d352c2)" alt="image" width="250" height="250">
 
 ## Deepanshu Yadav | Ph. D. Scholar 
 
