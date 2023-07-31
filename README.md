@@ -15,9 +15,10 @@ ________________________________________________________________________________
 
 ####   B. E. in Mechanical Engineering | [2014-2018]
 
-#### [Sri Krishna College of Engineering & Technology](https://nitkkr.ac.in/){:target="_blank"}, Tamil Nadu, India
+#### [Sri Krishna College of Engineering & Technology](https://www.skcet.ac.in/){:target="_blank"}, Tamil Nadu, India
 
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/095c9b2a-441f-4375-a21e-812b692899b0" alt="image" width="90" height="90">
+<img src="![SKCET logo](https://github.com/KannanS397/Webpage/assets/140952087/09c98814-45ba-4068-88dc-1b6983fb043c)
+" alt="image" width="90" height="90">
 
 _________________________________________________________________________________________________________
 
@@ -25,7 +26,8 @@ ________________________________________________________________________________
 
 #### [Indian Institute of Technology Madras](https://www.iitm.ac.in/){:target="_blank"}, Chennai, Tamil Nadu, India 
 
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
+<img src="![IITM logo](https://github.com/KannanS397/Webpage/assets/140952087/e6125faa-70bb-4b26-95e2-80274d8a092c)
+" alt="image" width="90" height="90">
 
 #### Mentors: [Prof. Sarvana Kumar G & Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/){:target="_blank"}
 
@@ -33,11 +35,13 @@ ________________________________________________________________________________
 
 ## Research Interests
 
-**Decision Making:** Visualization-aided interactive and informed multi-criteria decision-making (MCDM), evolutionary multi-objective robust optimization & decision-making
+**Preform optimization:** Preform design parameter and process parameter optimization, No of preform design required
+
+**Decision Making:** Multi-criteria decision-making (MCDM)
 
 **Machine Learning:** Applied Statistics, basics of Machine Learning & Deep Learning techniques
 
-**Visual Analytics:** Design space exploration, Pareto front exploration, region of interest (RoI) identification, interpretable self-organizing maps (iSOM), PCP, RadViz, etc.
+**Visual Analytics:** Design space exploration, Pareto front exploration, region of interest (RoI) identification.
 
 **Uncertainty Quantification:** Extreme events, reliability-based design, probabilistic techniques
 
@@ -58,7 +62,16 @@ ________________________________________________________________________________
 
 ## Work Experience
 
-####   Student Trainee | [Jun 2014-Jul 2014]
+###  Project associate | [July 2018-December 2020]
+#### [**A**dvanced **D**esign **O**ptimization and **P**robabilistic **T**echniques (**ADOPT**) Laboratory](https://ed.iitm.ac.in/~palramu/team.html){:target="_blank"}
+Industry Projects
+FCA India (Fiat chrysler Automobiles): Topology optimization study of suspension components using Generative design process in Fusion 360. 
+Brakes India: Design optimization and performance benchmarking of brake components using Optistruct in Hyperworks.
+Research Projects
+Product design, fabrication and installation of a Vertical axis wind turbine that is modular and portable.
+Benchmarking study and review of topology optimization  for Additive Manufacturing methods using multiple CAE tools like Genesis, Optistruct (Hyperworks), Tosca Structure 2018 (ABAQUS) and Generative design (Fusion 360).
+
+
 
 #### [Bharat Pumps and Compressors Limited](https://www.bpcnaini.co.in/){:target="_blank"}, Prayagraj, India
 
@@ -67,10 +80,10 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-#### Student Intern | [Jun 2015-Aug 2015]
+#### Student Intern | [Oct 2017-Nov 2017]
 
-#### [Mercedes Benz Research and Development India](https://www.mbrdi.co.in/){:target="_blank"}, Bangalore, India
-
+#### [Kentex Engineering ](http://kentex.in/){:target="_blank"}, Bangalore, India
+ Designed the Trolly to carry the work logs with sheet metal modules in Solidworks.
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/5bcfd643-0d56-4a54-9838-f7793893e7f3" alt="image" width="75" height="75">
 
 _________________________________________________________________________________________________________
