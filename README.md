@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 ## Education 
 
-####   B. E. in Mechanical Engineering | [2014-2018]
+#### B. E. in Mechanical Engineering | [2014-2018]
 
 #### [Sri Krishna College of Engineering & Technology](https://www.skcet.ac.in/){:target="_blank"}, Tamil Nadu, India
 
@@ -62,12 +62,12 @@ ________________________________________________________________________________
 ###  Project associate | [July 2018-December 2020]
 #### [**A**dvanced **D**esign **O**ptimization and **P**robabilistic **T**echniques (**ADOPT**) Laboratory](https://ed.iitm.ac.in/~palramu/team.html){:target="_blank"}
 
-####Industry Projects
+#### Industry Projects
 FCA India (Fiat chrysler Automobiles): Topology optimization study of suspension components using Generative design process in Fusion 360. 
 
 Brakes India: Design optimization and performance benchmarking of brake components using Optistruct in Hyperworks.
 
-####Research Projects
+#### Research Projects
 Product design, fabrication and installation of a Vertical axis wind turbine that is modular and portable.
 
 Benchmarking study and review of topology optimization  for Additive Manufacturing methods using multiple CAE tools like Genesis, Optistruct (Hyperworks), Tosca Structure 2018 (ABAQUS) and Generative design (Fusion 360).
@@ -144,8 +144,8 @@ ________________________________________________________________________________
 
 ## Contact Info
 
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/08627ae9-6841-4820-8ad8-3df2dc3fa06f" alt="image" width="17" height="13">  deepanshu.yadav380@gmail.com |
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/a064571d-cd59-4b38-a0f4-79a9427fb60a" alt="image" width="15" height="15">  +91 9078072XXX  
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/08627ae9-6841-4820-8ad8-3df2dc3fa06f" alt="image" width="17" height="13">  sekarkannan888@gmail.com |
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/a064571d-cd59-4b38-a0f4-79a9427fb60a" alt="image" width="15" height="15">  +91 9843681131  
 
 _________________________________________________________________________________________________________
 
