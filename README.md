@@ -53,6 +53,13 @@ ________________________________________________________________________________
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/ccca25b5-7dca-403b-a80a-61e656feafb3" alt="image" width="100" height="50"> 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/e7dd23af-8605-4bac-87ef-c9ff1795f658" alt="image" width="50" height="50">
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/c4036d9e-63a4-4f7e-b247-e53c6d29c1fa" alt="image" width="90" height="50">
+<img src="https://github.com/KannanS397/Webpage/assets/140952087/48862e9e-112a-4aa5-b635-12da4b503fff" alt="image" width="120" height="50">
+<img src="https://github.com/KannanS397/Webpage/assets/140952087/63ea8b41-6a9a-463f-aebb-e2e767beff51" alt="image" width="160" height="80"> 
+<img src="https://github.com/KannanS397/Webpage/assets/140952087/d5aaac84-b11e-4d6b-aac5-7f6269da9742" alt="image" width="120" height="50">
+<img src="https://github.com/KannanS397/Webpage/assets/140952087/868d691c-9616-4838-9597-d8ffad06634f" alt="image" width="180" height="50">    
+<img src="https://github.com/KannanS397/Webpage/assets/140952087/0c6c511d-c00d-4da0-9911-9650ab1e200c" alt="image" width="100" height="50">   
+<img src="https://github.com/KannanS397/Webpage/assets/140952087/d4879dcc-7c36-4b89-bc6b-4c2bbac5275c" alt="image" width="120" height="50">
+
 
 
 _________________________________________________________________________________________________________
@@ -116,7 +123,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-## Conference/Symposium Presentations
+## Conference Presentations
 
 [1]. **Kannan Sekar**, Palaniappan Ramu, Aravind Baskar. (2019) Surrogate assisted design optimization using numerical polynomial continuation, 2nd National Conference on multidisciplinary design, analysis, and optimization 22-23 March 2019, Bangalore.
 
