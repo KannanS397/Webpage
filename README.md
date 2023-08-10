@@ -92,7 +92,7 @@ ________________________________________________________________________________
 
 ## Teaching Assistant
 
-#### ED2090: Geometric Modelling and CAD Laboratory [June-Nov 2023, Jan-May 2023]
+#### ED2090: Geometric Modelling and CAD Laboratory [July-Nov 2022, Jan-May 2023]
 
 *[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/){:target="_blank"}*
 
